@@ -20,15 +20,26 @@ pyenv with Python: 3.9.4
 
 ## __Environment__
 
+`````
 pyenv local 3.9.4
+
 python -m venv .venv
+
 source .venv/bin/activate
+
 pip install --upgrade pip
+
 pip install -r requirements.txt
 
+
 brew update
+
 brew install node
 
+
 pip install jupyterlab "ipywidgets>=7.5"
+
 jupyter labextension install jupyterlab-plotly@4.14.3
+
 jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.14.3
+```````````
