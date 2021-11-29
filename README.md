@@ -1,14 +1,27 @@
 # __Streaming services: Movies__
 
-This dataset is from [Kaggle](https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney?select=MoviesOnStreamingPlatforms_updated.csv).
+The most difficult decision is the following one: Which movie we want to see tonight?
 
-Inspiration
+There are a lot of streaming provider out there but the 2 biggest one are for sure Prime Video and Netflix.
 
-Which streaming platform(s) can I find this movie on?
-Average IMDb rating of movies produced in a country?
-Target age group movies vs the streaming application they can be found on
-The year during which a movie was produced and the streaming platform they can be found on
-Analysis of the popularity of a movie vs directors
+The dataset I used contains data from 4 streaming provider: Prime Video, Netflix, Hulu and Disney+. 
+
+For sure I could also add Sky, Apple or others, but I want to focus on the biggest global provider.
+
+
+In this project I want to get an overview of:
+* the numbers of movies on the 4 streaming provider
+* what are the most common genres
+* which runtime -> also important for making the decision for the tonight's movie :-)
+* what are the most common languages
+* which directors are the most common ones
+* which genres are the most common ones in German
+
+<img src="https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png" width=760 height=450 />
+
+---
+
+Dataset: This dataset is from [Kaggle](https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney?select=MoviesOnStreamingPlatforms_updated.csv).
 
 ---
 
