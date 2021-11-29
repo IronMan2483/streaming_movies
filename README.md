@@ -9,7 +9,10 @@ The dataset I used contains data from 4 streaming provider: Prime Video, Netflix
 For sure I could also add Sky, Apple or others, but I want to focus on the biggest global provider.
 
 
-In this project I want to get an overview of:
+<img src="https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png" width=760 height=450 />
+
+
+__In this project I want to get an overview of:__
 * the numbers of movies on the 4 streaming provider
 * what are the most common genres
 * which runtime -> also important for making the decision for the tonight's movie :-)
@@ -17,7 +20,6 @@ In this project I want to get an overview of:
 * which directors are the most common ones
 * which genres are the most common ones in German
 
-<img src="https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png" width=760 height=450 />
 
 ---
 
