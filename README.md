@@ -10,8 +10,10 @@ For sure I could also add Sky, Apple or others, but I want to focus on the bigge
 
 
 <img src="https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png" width=760 height=450 />
+
 ##### source: Netflix
 
+<br/>
 
 __In this project I want to get an overview of:__
 * the numbers of movies on the 4 streaming provider
