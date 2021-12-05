@@ -26,13 +26,19 @@ __In this project I want to get an overview of:__
 
 ---
 
-Dataset: This dataset is from [Kaggle](https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney?select=MoviesOnStreamingPlatforms_updated.csv).
+Notebook: [ipynb file](https://github.com/IronMan2483/streaming_movies/blob/main/notebook/notebook_streaming_movies.ipynb)
+
+Dataset: 
+- This dataset is from [Kaggle](https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney?select=MoviesOnStreamingPlatforms_updated.csv).
+- The new created CSV files are [here](https://github.com/IronMan2483/streaming_movies/blob/main/data).
 
 ---
 
 ## __Requirements__
 
 pyenv with Python: 3.9.4
+
+wordcloud
 
 ---
 
