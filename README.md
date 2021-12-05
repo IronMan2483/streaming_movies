@@ -34,7 +34,7 @@ __Genres of movies with the most common word "Love" in its titles__
 
 __Number of movies on 1 or more streaming services in the dataset__
 
-<img src="https://github.com/IronMan2483/streaming_movies/blob/main/images/streaming_services.png" width=600 height=300 />
+<img src="https://github.com/IronMan2483/streaming_movies/blob/main/images/streaming_services.png" width=580 height=160 />
 
 
 __Most common languages of the movies in the dataset__
