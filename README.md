@@ -23,6 +23,23 @@ __In this project I want to get an overview of:__
 * which directors are the most common ones
 * which genres are the most common ones in German
 
+---
+
+### __SOME INSIGHTS__
+
+__Genres of movies with the most common word "Love" in its titles__
+
+<img src="https://github.com/IronMan2483/streaming_movies/blob/main/images/love-wordcloud.jpg" width=400 height=400 />
+
+
+__Number of movies on 1 or more streaming services in the dataset__
+
+<img src="https://github.com/IronMan2483/streaming_movies/blob/main/images/streaming_services.png" width=600 height=300 />
+
+
+__Most common languages of the movies in the dataset__
+
+<img src="https://github.com/IronMan2483/streaming_movies/blob/main/images/Languages.png" width=600 height=400 />
 
 ---
 
