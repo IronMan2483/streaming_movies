@@ -38,6 +38,8 @@ Dataset:
 
 pyenv with Python: 3.9.4
 
+wordcloud
+
 ---
 
 ## __Environment__
